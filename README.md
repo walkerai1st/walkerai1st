@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Sports, Photography, Working Out, Music, Food and Tech 
 - 🌱 I’m currently learning ... CS50 and Python 
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... @theothera.i on instagram or twitter (x)
+- 📫 How to reach me ... @theothera_i on instagram or twitter (x)
 - ⚡ Fun fact: ... When you wake up you go into your bathroom. Hit a double bicep pose and say "OOOOHHH YEEEAAAAAHHHH" like Macho Man Randy Savage. You now have a 100% chance of having a better day!
 
 <!---
